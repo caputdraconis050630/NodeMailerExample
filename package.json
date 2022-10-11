@@ -1,0 +1,28 @@
+{
+  "name": "nodemailerexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caputdraconis050630/NodeMailerExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caputdraconis050630/NodeMailerExample/issues"
+  },
+  "homepage": "https://github.com/caputdraconis050630/NodeMailerExample#readme",
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/nodemailer": "^6.4.6",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.8.0"
+  }
+}

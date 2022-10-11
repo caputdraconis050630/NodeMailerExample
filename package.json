@@ -2,7 +2,7 @@
   "name": "nodemailerexample",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,6 +22,7 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
+    "@types/aws-sdk": "^2.7.0",
     "dotenv": "^16.0.3",
     "nodemailer": "^6.8.0"
   }

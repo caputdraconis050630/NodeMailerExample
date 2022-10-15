@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@types/aws-sdk": "^2.7.0",
+    "@types/reflect-metadata": "^0.1.0",
     "dotenv": "^16.0.3",
     "nodemailer": "^6.8.0"
   }

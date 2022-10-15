@@ -12,6 +12,7 @@
 - Domain: caput.dev([Gabia](https://www.gabia.com/))
 - Installed Package
 - - @types/nodemailer
+- - nodemailer
 - - @types/aws-sdk
 
 ## Reference
